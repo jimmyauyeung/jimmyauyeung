@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jimmy
 - 👀 I’m interested in data
-- 🌱 I’m currently learning machine learning
 - 📫 How to reach me: jmyauy@gmail.com
 
 <!---
